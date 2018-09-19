@@ -1,7 +1,7 @@
 var array = [];
 
 function forLoop(array) {
-  for (i = 0; i < 25; i++) {
+  for (var i = 0; i < 25; i++) {
     
   }
 }
